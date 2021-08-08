@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(141, 199, 199);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.sign-up-container {
+  margin-top: 15%;
+  max-width: 680px;
+}
+
+.header-background{
+  background-color: black;
+  text-decoration-color: white;
+  padding: 3;
+}
+
+.signup-h2-banner{
+  text-align:justify;
+  text-decoration: underline;
+  text-decoration: solid;
+}
+
+html body div#root div div div.mb-5{
+  margin-bottom: -1rem !important;
+  background-color: rgb(141, 199, 199);
+}
+
+html body div#root div div div.container-fluid.home-margin-top-less-200px div.row main.col-md-9.ml-sm-auto.col-lg-10.px-4{
+  background-color: rgb(141, 199, 199);
+}
